@@ -32,7 +32,7 @@
         position: static;
         min-height: auto;
         width: 100%;
-        margin-top: 400px;
+        margin-top: 300px;
         align-items: center;
     }
 
@@ -43,7 +43,7 @@
     .conteudo{
         min-height: 70vh;
         gap: 50px;
-        
+        overflow: scroll;
     }
 
     body{
